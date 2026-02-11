@@ -1,0 +1,26 @@
+Try inputs like:
+Case 1 (High profile)
+
+GRE: 330
+TOEFL: 115
+CGPA: 9.2
+Research: Yes
+
+👉 Expect: High % + Dream universities
+
+Case 2 (Medium)
+
+GRE: 305
+TOEFL: 100
+CGPA: 8
+Research: No
+
+👉 Expect: Moderate universities
+
+Case 3 (Low)
+
+GRE: 280
+TOEFL: 90
+CGPA: 7
+
+👉 Expect: Safe universities
