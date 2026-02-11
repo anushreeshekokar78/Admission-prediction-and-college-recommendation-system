@@ -46,16 +46,7 @@ The system takes the following inputs:
 * Streamlit (for deployment)
 * Joblib (for model saving)
   
-📂 Project Structure
-Admission-Prediction-System
-│
-├── app.py
-├── admission_model.pkl
-├── scaler.pkl
-├── training_notebook.ipynb
-├── dataset.csv
-├── requirements.txt
-└── README.md
+
  Run the application
 
 
